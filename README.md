@@ -1,4 +1,4 @@
-# Hi! I'm Simone Pontrelli 👋
+# Ciao! I'm Giovanni Sette 👋
 
  
 
