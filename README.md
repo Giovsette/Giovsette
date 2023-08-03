@@ -42,16 +42,16 @@ I am excited to continue to grow and contribute my passion and skills.
 
 ### Social Media
 <div>
-<a href="https://www.linkedin.com/in/simone-pontrelli/">
+<a href="https://www.linkedin.com/in/giovanni-sette/">
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://wa.me/+393471688350">
+<a href="https://wa.me/+393921163512">
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/whatsapp/25d366" />
 </a>
-<a href="https://www.instagram.com/simone.pontrelli/">
+<a href="https://www.instagram.com/giovsette/">
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/instagram/e95950" />
 </a>
-<a href="mailto:pontrellisimone01@gmail.com">
+<a href="mailto:giovsette.info@gmail.com">
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.simpleicons.org/gmail/c71610" />
 </a>
 </div>
