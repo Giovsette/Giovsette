@@ -29,9 +29,7 @@ I am about to graduate in CS at UniBa, I am an excellent communicator and able t
 
 #
 
- 
 
-### Social Media
 <div>
 <a href="https://www.linkedin.com/in/giovanni-sette/">
 <img align="left" alt="" width="25px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -52,9 +50,7 @@ I am about to graduate in CS at UniBa, I am an excellent communicator and able t
 
 #
 
- 
 
-### Languages and Tools
 <div>
 <img align="left" alt="" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
