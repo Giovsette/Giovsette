@@ -6,16 +6,12 @@
 
  
 
-Studio "Informatica e Tecnologie per la Produzione del Software" presso l'Università degli Studi di Bari. 
-Mi considero sempre pronto a dare il massimo in tutto ciò che faccio. Vivo la vita una riga di codice alla volta.
+Sono un Front-End Developer, posseggo oltre 5 anni di esperienza in sviluppo di siti web dinamici
+( temi grafici custom per i CMS oppure progetti supportati da Framework Front-End ).
 
- 
 
-Nel corso del tempo, ho sviluppato solide competenze nel campo del Front-End Development, collaborando con clienti ed aziende per realizzare progetti significativi e importanti.
-
- 
-
-Sono entusiasta di continuare a crescere e contribuire con la mia passione e le mie competenze.
+Sto per laurearmi in ITPS presso UniBa, sono un ottimo comunicatore capace di lavorare in gruppo, 
+collaboro spesso in remoto con alcune agenzie di sviluppo web.
 
  
 
@@ -23,16 +19,11 @@ Sono entusiasta di continuare a crescere e contribuire con la mia passione e le 
 
  
 
-I'm studying "Computer Science and Technologies for Software Production" at the University of Bari (Italy). 
-I consider myself always ready to give my all in everything I do. I live life one line of code at a time.
+I am a Front-End Developer, with over 5 years of experience in dynamic website development 
+( custom graphic themes for CMS or projects supported by Front-End Frameworks ). 
 
- 
 
-Over time, I have developed solid skills in the field of Front-End Development, working with clients and companies to accomplish significant and important projects.
-
- 
-
-I am excited to continue to grow and contribute my passion and skills.
+I am about to graduate in CS at UniBa, I am an excellent communicator and able to work in a team, I often work remotely with some web development agencies.
 
  
 
